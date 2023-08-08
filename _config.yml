@@ -46,7 +46,7 @@ linkedin_username: imre-szücs-2724411b1
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Imre and I'm a senior software developer. As a seasoned .NET Developer with over 3 years of coding experience, I have proven skills in application development. I have demonstrated my ability to develop the core of Cadify Solidworks AddIn by using Solidworks and Dropbox API, which has enabled the integration of these platforms and the development of an innovative tool. Additionally, I have a strong passion for sharing my knowledge and experience with others, as evidenced by my eagerness to help teach interns. I believe in the importance of building a strong, supportive team environment and fostering a culture of continuous learning and improvement. 
+  Hi, my name's Imre. As a seasoned .NET Developer with over 3 years of coding experience, I have proven skills in application development. I have demonstrated my ability to develop the core of Cadify Solidworks AddIn by using Solidworks and Dropbox API, which has enabled the integration of these platforms and the development of an innovative tool. Additionally, I have a strong passion for sharing my knowledge and experience with others, as evidenced by my eagerness to help teach interns. I believe in the importance of building a strong, supportive team environment and fostering a culture of continuous learning and improvement. 
 
   I am most skilled in: <mark>C#</mark> <mark>Solidworks API</mark> <mark>Excel Interop</mark>
 
@@ -82,7 +82,7 @@ content:
         quote: >
           Cadify mission is to transform your production pipeline into a self-service store.
         description: | # this will include new lines to allow paragraphs
-            I started to work at Cadify as an intern in my last semester at the university. As cadify as a software developed, so did my programming skills. One of my primary objective is to implement automated blueprint generation for parametrized models with Solidworks. Because of the fact that Cadify is a small team of 6 peaple employed now I could take a part in teaching the new interns as well, that grows my experiense in team management besides the development.
+           I commenced my journey at Cadify as an intern during my final semester at the university. As Cadify, a software development company, evolved, so did my programming skills. A key objective of mine was to spearhead the implementation of automated blueprint generation for parametrized models using Solidworks. Given that Cadify operates with a compact team of six individuals, I've also been actively involved in mentoring new interns, thereby enriching my experience in team management alongside software development.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -94,22 +94,23 @@ content:
         quote: >
           Today with its 3,000 students, its several decades of experience, its renovated and extended campus, the Faculty of Engineering and Information Technology is one the most colourful institutions of Hungary’s tertiary technical education and one of the prominent centres of the country’s engineering life.
         description: | # this will include new lines to allow paragraphs
-          During my time at the university I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines.
+          During my time at the university, I learned most of my key skills that I have taken through my career, such as teamwork and working to tight deadlines.
 
-          Despite the fact that I learned a lot during the years, one of the most important skills I learned was understanding and using something on a deeper level by myself.
+          Despite the fact that I learned a lot during those years, one of the most important skills I acquired was the ability to understand and utilize concepts on a deeper level independently.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I am 27 years old, born in Pincehely. I grew up in Tamási, then I moved to Pécs, where I live now. Already as a young boy, I was interested in machines and their operation. As personal computers evolved, I loved replacing old parts or building new ones. After a while, I became interested in the software operation of computers, so after high school, I started studying to broaden my knowledge of software engineering. During my college years, I  experienced several jobs, for example as a bartender at festivals, and I worked in the construction field of my hometown as part of a summer job. After I got my bachelor's degree in computer science engineering, I started to work at Cadify here in Pécs, as a software developer. My own experience grew along with my knowledge and development of the software. 
+     I grew up in Tamási and later relocated to Pécs, where I currently reside. From a young age, I exhibited a keen interest in machinery and their operations. As personal computers advanced, I found joy in both upgrading old components and assembling new systems. Over time, my fascination extended to software functioning, prompting me to pursue further studies in software engineering after completing high school. 
+     Throughout my college years, I engaged in various roles, including working as a bartender at festivals, as well as participating in construction projects in my hometown as a summer job.
       Besides working:
       - I also like to have fun with my friends we usually participate in cooking competitions, go on trips, or just get together for board games.      
       - I love tinkering with cars and machinery. I have developed a strong skill set in repairing and maintaining these machines and enjoy the satisfaction of seeing them run smoothly after a successful repair.
-      - Online gaming.
+      - Online gaming and watching series.
       
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: 
 
 # Build settings
 remote_theme: sproogen/resume-theme
