@@ -103,10 +103,11 @@ content:
     content: | # this will include new lines to allow paragraphs
      I grew up in Tamási and later relocated to Pécs, where I currently reside. From a young age, I exhibited a keen interest in machinery and their operations. As personal computers advanced, I found joy in both upgrading old components and assembling new systems. Over time, my fascination extended to software functioning, prompting me to pursue further studies in software engineering after completing high school. 
      Throughout my college years, I engaged in various roles, including working as a bartender at festivals, as well as participating in construction projects in my hometown as a summer job.
-      Besides working:
-      - I also like to have fun with my friends we usually participate in cooking competitions, go on trips, or just get together for board games.      
-      - I love tinkering with cars and machinery. I have developed a strong skill set in repairing and maintaining these machines and enjoy the satisfaction of seeing them run smoothly after a successful repair.
-      - Online gaming and watching series.
+          
+     Besides working:
+     - I also like to have fun with my friends we usually participate in cooking competitions, go on trips, or just get together for board games.      
+     - I love tinkering with cars and machinery. I have developed a strong skill set in repairing and maintaining these machines and enjoy the satisfaction of seeing them run smoothly after a successful repair.
+     - Online gaming and watching series.
       
 # Footer
 footer_show_references: true
