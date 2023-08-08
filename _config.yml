@@ -1,0 +1,122 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Imre Szücs
+title: Senior Software Developer
+email: szucsim19@gmail.com
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username:  szucsim
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+facebook_username: imre.szucs.395
+# flickr_username: jekyll
+instagram_username: szucsimre
+linkedin_username: imre-szücs-2724411b1
+# xing_username: jekyll
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.png
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Imre and I'm a senior software developer. As a seasoned .NET Developer with over 3 years of coding experience, I have proven skills in application development. I have demonstrated my ability to develop the core of Cadify Solidworks AddIn by using Solidworks and Dropbox API, which has enabled the integration of these platforms and the development of an innovative tool. Additionally, I have a strong passion for sharing my knowledge and experience with others, as evidenced by my eagerness to help teach interns. I believe in the importance of building a strong, supportive team environment and fostering a culture of continuous learning and improvement. 
+
+  I am most skilled in: <mark>C#</mark> <mark>Solidworks API</mark> <mark>Excel Interop</mark>
+
+content:
+  #- title: Projects # Title for the section
+   # layout: list # Type of content section (list/text)
+   # content:
+   #   - layout: top-middle
+   #     title: Super awesome project
+   #     link: github.com/sproogen
+        # link_text: Project Website
+        #additional_links:
+          #- title:  sproogen/modern-resume-theme
+            #icon: fab fa-github
+            #url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        #quote: >
+          #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        #description: | # this will include new lines to allow paragraphs
+          #I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Cadify
+        link: cadify.no
+        # link_text: boringcompany.com
+        sub_title: Senior Software Developer
+        caption: December 2018 - Present
+        quote: >
+          Cadify mission is to transform your production pipeline into a self-service store.
+        description: | # this will include new lines to allow paragraphs
+            I started to work at Cadify as an intern in my last semester at the university. As cadify as a software developed, so did my programming skills. One of my primary objective is to implement automated blueprint generation for parametrized models with Solidworks. Because of the fact that Cadify is a small team of 6 peaple employed now I could take a part in teaching the new interns as well, that grows my experiense in team management besides the development.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Pécs
+        caption: 2015 - 2019
+        sub_title: Computer Science Engineering BSc
+        quote: >
+          Today with its 3,000 students, its several decades of experience, its renovated and extended campus, the Faculty of Engineering and Information Technology is one the most colourful institutions of Hungary’s tertiary technical education and one of the prominent centres of the country’s engineering life.
+        description: | # this will include new lines to allow paragraphs
+          During my time at the university I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines.
+
+          Despite the fact that I learned a lot during the years, one of the most important skills I learned was understanding and using something on a deeper level by myself.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      I am 27 years old, born in Pincehely. I grew up in Tamási, then I moved to Pécs, where I live now. Already as a young boy, I was interested in machines and their operation. As personal computers evolved, I loved replacing old parts or building new ones. After a while, I became interested in the software operation of computers, so after high school, I started studying to broaden my knowledge of software engineering. During my college years, I  experienced several jobs, for example as a bartender at festivals, and I worked in the construction field of my hometown as part of a summer job. After I got my bachelor's degree in computer science engineering, I started to work at Cadify here in Pécs, as a software developer. My own experience grew along with my knowledge and development of the software. 
+      Besides working:
+      - I also like to have fun with my friends we usually participate in cooking competitions, go on trips, or just get together for board games.      
+      - I love tinkering with cars and machinery. I have developed a strong skill set in repairing and maintaining these machines and enjoy the satisfaction of seeing them run smoothly after a successful repair.
+      - Online gaming.
+      
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
